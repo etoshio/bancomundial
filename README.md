@@ -19,9 +19,8 @@ Taxa de cobertura de código em 84% nas linhas
 
 Abrir o projeto no IntelliJ e rodar os comandos abaixo:
 
-* mvn clean install
-* docker build -t my-app .
-* docker run -p 0.0.0.0:8080:8080 my-app
+* docker build -t bancomundial .
+* docker run -p 0.0.0.0:8080:8080 -d bancomundial
 
 **Swaagger**
 * http://localhost:8080/swagger-ui.html
