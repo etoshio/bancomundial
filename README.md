@@ -10,6 +10,11 @@ A aplicação deve permitir que o usuário digite o código do país para em seg
 * IntelliJ
 * Maven 
 
+**Critério de aceite**
+Taxa de cobertura de código em 100% em classes
+Taxa de cobertura de código em 86% nos métodos
+Taxa de cobertura de código em 84% nas linhas
+
 **Execução**
 
 Abrir o projeto no IntelliJ e rodar os comandos abaixo:
